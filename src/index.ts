@@ -1,3 +1,4 @@
-let num: number = 123
+// import './example/basic-type'
+import './example/symbols'
 
 document.title = '欢迎学习Typescript!'
